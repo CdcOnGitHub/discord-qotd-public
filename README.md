@@ -1,4 +1,7 @@
 # Current QOTD
-**[1/20]** What word is spelled incorrectly in every dictionary?
+**[2/20]** What was the president's name in 1992?
 # Answers
-No QOTD answers published yet.
+## Day 1
+**Question:** What word is spelled incorrectlh in every dictionary?
+**Answer:** incorrectly
+
